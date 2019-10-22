@@ -7,7 +7,7 @@
 
   <p align="center">
     This is a simple full stack React template. Based on <a href="https://github.com/crsandeep/simple-react-full-stack">this</a> repository.
-    React, Node.js, Express, MongoDB, Webpack, ESLint.
+    React, Node.js, Express, MongoDB, Webpack, ESLint and Redux.
     <br />
   </p>
 </p>

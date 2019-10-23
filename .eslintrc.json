@@ -12,9 +12,10 @@
     "linebreak-style": 0,
     "indent": [
         "error",
-        4
+        2
     ],
 	"react-hooks/rules-of-hooks": "error",
-    "react-hooks/exhaustive-deps": "warn"
+    "react-hooks/exhaustive-deps": "warn",
+	"react/jsx-one-expression-per-line": "off"
   }
 }
